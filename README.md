@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saqlain Shahid</h1>
-- 🌱 I’m currently learning **Data Structures & Web Development**
+<h3 align="center">A passionate Software Engineer to be...</h3>
+
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://saqlain-portfolio.vercel.app)
 
