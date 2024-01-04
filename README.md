@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://saqlain-portfolio.vercel.app)
+- 👨‍💻 Some of my projects are available at [portfolio](https://saqlain-portfolio.vercel.app)
 
 - 💬 Ask me about **Software Technologies!!**
 
