@@ -5,7 +5,7 @@
 
 - 👨‍💻 Some of my projects are available at [portfolio](https://saqlain-portfolio.vercel.app)
 
-- 💬 Ask me about **Software Technologies!!**
+- 💬 Ask me about **Front-End and Back-End Technologies**
 
 - 📫 How to reach me **saqlain.shahid03@gmail.com**
 
