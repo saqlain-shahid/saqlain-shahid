@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently Looking for **SDE Roles**
 
-- 💬 Ask me about **MERN, JavaScript, C++, DSA**
+- 💬 Ask me about **MERN, JavaScript, Java, DSA**
 
 - 📫 How to reach me **saqlain.shahid03@gmail.com**
 
